@@ -692,3 +692,14 @@
 	<opencv2/aruco.hpp>
 	<opencv2/calib3d.hpp>
 
+1743707016 source:c:\users\flore\desktop\aruco_marker\main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+	<cstdio>
+	<opencv2/core.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/aruco.hpp>
+	<opencv2/calib3d.hpp>
+
